@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f1c7255.chunk.css",
+    "main.js": "/static/js/main.13572924.chunk.js",
+    "main.js.map": "/static/js/main.13572924.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32e37486.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32e37486.js.map",
+    "static/js/2.7225d2a9.chunk.js": "/static/js/2.7225d2a9.chunk.js",
+    "static/js/2.7225d2a9.chunk.js.map": "/static/js/2.7225d2a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f1c7255.chunk.css.map": "/static/css/main.0f1c7255.chunk.css.map",
+    "static/js/2.7225d2a9.chunk.js.LICENSE.txt": "/static/js/2.7225d2a9.chunk.js.LICENSE.txt",
+    "static/media/005-placeholder.7ab0bb6a.svg": "/static/media/005-placeholder.7ab0bb6a.svg",
+    "static/media/023-mail.54504f65.svg": "/static/media/023-mail.54504f65.svg",
+    "static/media/Ripple-1.1s-276px.64b7f63b.svg": "/static/media/Ripple-1.1s-276px.64b7f63b.svg",
+    "static/media/Torta.0b684b7b.jpg": "/static/media/Torta.0b684b7b.jpg",
+    "static/media/Tu-pastel-ideal.e83390a8.png": "/static/media/Tu-pastel-ideal.e83390a8.png",
+    "static/media/FormAuth.css": "/static/media/apple-background-desk-electronics-399161.75e27814.jpg",
+    "static/media/Presentation.css": "/static/media/cake-with-white-icing-on-top-and-bunny-topper-3992386.7bb21c51.jpg",
+    "static/media/carmenCuarte.e2d69c26.jpg": "/static/media/carmenCuarte.e2d69c26.jpg",
+    "static/media/close.3705f3ed.svg": "/static/media/close.3705f3ed.svg",
+    "static/media/cocinar.698da9d6.svg": "/static/media/cocinar.698da9d6.svg",
+    "static/media/facebook.ea59cd6c.svg": "/static/media/facebook.ea59cd6c.svg",
+    "static/media/instagram.02967a62.svg": "/static/media/instagram.02967a62.svg",
+    "static/media/menu (1).d37a066f.svg": "/static/media/menu (1).d37a066f.svg",
+    "static/media/pinterest.3ec5375a.svg": "/static/media/pinterest.3ec5375a.svg",
+    "static/media/search-1.a32ce8f0.svg": "/static/media/search-1.a32ce8f0.svg",
+    "static/media/tupper.79d8b68e.jpg": "/static/media/tupper.79d8b68e.jpg",
+    "static/media/whatsapp.ab1d72fa.svg": "/static/media/whatsapp.ab1d72fa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e37486.js",
+    "static/js/2.7225d2a9.chunk.js",
+    "static/css/main.0f1c7255.chunk.css",
+    "static/js/main.13572924.chunk.js"
+  ]
+}
